@@ -3,7 +3,7 @@
 ## Description
 1,000 People - Spanish Handwriting OCR Data. The writers are Europeans who often write spanish. The device is scanner, the collection angle is eye-level angle. The dataset content includes address, company name, personal name.The dataset can be used for tasks such as spanish handwriting OCR.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1405?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/ocr/1405?source=Github
 
 
 ## Data size
